@@ -1,0 +1,15 @@
+# Javahelloworld
+#program to display hello world in java
+
+package Helloworld;
+
+public class Helloworld {
+    
+    public static void main(String[] args) {
+        System.out.println("HELLO WORLD");
+    }    
+}
+
+OUTPUT=>
+
+HELLO WORLD
